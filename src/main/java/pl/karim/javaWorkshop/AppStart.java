@@ -1,4 +1,4 @@
-package pl.karim;
+package pl.karim.javaWorkshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
